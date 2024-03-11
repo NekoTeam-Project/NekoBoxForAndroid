@@ -1,5 +1,5 @@
 if [ ! -z $ENV_NB4A ]; then
-  export COMMIT_SING_BOX_EXTRA="73bce610791a373dad29cb80b8ffc05fe87e21ec"
+  export COMMIT_SING_BOX_EXTRA="90f15fbd5d721ef5c83856e1c9ee2c6e5355b67a"
 fi
 
 if [ ! -z $ENV_SING_BOX_EXTRA ]; then
