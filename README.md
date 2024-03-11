@@ -1,7 +1,7 @@
 # NekoBox for Android
 
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-[![Releases](https://img.shields.io/github/v/release/MatsuriDayo/NekoBoxForAndroid)](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+[![Releases](https://img.shields.io/github/v/release/NekoTeam-Project/NekoBoxForAndroid)](https://github.com/NekoTeam-Project/NekoBoxForAndroid/releases)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-orange.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 sing-box / universal proxy toolchain for Android.
@@ -22,7 +22,7 @@ https://t.me/Matsuridayo
 
 ## 项目主页 & 文档 / Homepage & Documents
 
-https://matsuridayo.github.io
+https://nekoteam-project.github.io
 
 ## 支持的代理协议 / Supported Proxy Protocols
 
@@ -40,9 +40,9 @@ https://matsuridayo.github.io
 * Mieru (mieru-plugin)
 * TUIC
 
-请到[这里](https://matsuridayo.github.io/m-plugin/)下载插件以获得完整的代理支持.
+请到[这里](https://nekoteam-project.github.io/m-plugin/)下载插件以获得完整的代理支持.
 
-Please visit [here](https://matsuridayo.github.io/m-plugin/) to download plugins for full proxy supports.
+Please visit [here](https://nekoteam-project.github.io/m-plugin/) to download plugins for full proxy supports.
 
 ## 支持的订阅格式 / Supported Subscription Format
 
@@ -69,12 +69,12 @@ XMR
 
 Core:
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
-- [Matsuridayo/sing-box-extra](https://github.com/MatsuriDayo/sing-box-extra)
+- [Matsuridayo/sing-box-extra](https://github.com/NekoTeam-Project/sing-box-extra)
 
 Android GUI:
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)
-- [Matsuridayo/Matsuri](https://github.com/MatsuriDayo/Matsuri)
+- [Matsuridayo/Matsuri](https://github.com/NekoTeam-Project/Matsuri)
 
 Web Dashboard:
 - [Yacd-meta](https://github.com/MetaCubeX/Yacd-meta)

@@ -12,7 +12,7 @@ pushd ..
 
 ####
 if [ ! -d "sing-box-extra" ]; then
-  git clone --no-checkout https://github.com/MatsuriDayo/sing-box-extra.git
+  git clone --no-checkout https://github.com/NekoTeam-Project/sing-box-extra.git
 fi
 pushd sing-box-extra
 git checkout "$COMMIT_SING_BOX_EXTRA"

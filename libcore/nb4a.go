@@ -10,9 +10,9 @@ import (
 
 	"log"
 
-	"github.com/matsuridayo/libneko/neko_common"
-	"github.com/matsuridayo/libneko/neko_log"
-	"github.com/matsuridayo/sing-box-extra/boxmain"
+	"github.com/nekoteam-project/libneko/neko_common"
+	"github.com/nekoteam-project/libneko/neko_log"
+	"github.com/nekoteam-project/sing-box-extra/boxmain"
 	"github.com/sagernet/sing-box/nekoutils"
 )
 

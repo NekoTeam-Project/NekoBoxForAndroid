@@ -256,7 +256,7 @@ class MainActivity : ThemedActivity(),
             }
             .setNeutralButton(android.R.string.cancel, null)
             .setNeutralButton(R.string.action_learn_more) { _, _ ->
-                launchCustomTab("https://matsuridayo.github.io/m-plugin/")
+                launchCustomTab("https://nekoteam-project.github.io/m-plugin/")
             }
             .show()
     }
@@ -327,7 +327,7 @@ class MainActivity : ThemedActivity(),
             R.id.nav_tools -> displayFragment(ToolsFragment())
             R.id.nav_logcat -> displayFragment(LogcatFragment())
             R.id.nav_faq -> {
-                launchCustomTab("https://matsuridayo.github.io/")
+                launchCustomTab("https://nekoteam-project.github.io/")
                 return false
             }
 

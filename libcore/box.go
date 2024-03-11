@@ -12,12 +12,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/matsuridayo/sing-box-extra/boxbox"
-	_ "github.com/matsuridayo/sing-box-extra/distro/all"
+	"github.com/nekoteam-project/sing-box-extra/boxbox"
+	_ "github.com/nekoteam-project/sing-box-extra/distro/all"
 
-	"github.com/matsuridayo/libneko/protect_server"
-	"github.com/matsuridayo/libneko/speedtest"
-	"github.com/matsuridayo/sing-box-extra/boxapi"
+	"github.com/nekoteam-project/libneko/protect_server"
+	"github.com/nekoteam-project/libneko/speedtest"
+	"github.com/nekoteam-project/sing-box-extra/boxapi"
 
 	"github.com/sagernet/sing-box/common/conntrack"
 	"github.com/sagernet/sing-box/option"

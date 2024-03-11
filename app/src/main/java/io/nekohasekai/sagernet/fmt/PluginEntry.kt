@@ -21,7 +21,7 @@ enum class PluginEntry(
         DownloadSource(
             playStore = false,
             fdroid = false,
-            downloadLink = "https://github.com/MatsuriDayo/plugins/releases?q=mieru"
+            downloadLink = "https://github.com/NekoTeam-Project/plugins/releases?q=mieru"
         )
     ),
     NaiveProxy(
@@ -31,7 +31,7 @@ enum class PluginEntry(
         DownloadSource(
             playStore = false,
             fdroid = false,
-            downloadLink = "https://github.com/MatsuriDayo/plugins/releases?q=naive"
+            downloadLink = "https://github.com/NekoTeam-Project/plugins/releases?q=naive"
         )
     ),
     Hysteria(
@@ -41,7 +41,7 @@ enum class PluginEntry(
         DownloadSource(
             playStore = false,
             fdroid = false,
-            downloadLink = "https://github.com/MatsuriDayo/plugins/releases?q=Hysteria"
+            downloadLink = "https://github.com/NekoTeam-Project/plugins/releases?q=Hysteria"
         )
     ),
     ;
@@ -49,7 +49,7 @@ enum class PluginEntry(
     data class DownloadSource(
         val playStore: Boolean = true,
         val fdroid: Boolean = true,
-        val downloadLink: String = "https://matsuridayo.github.io/"
+        val downloadLink: String = "https://nekoteam-project.github.io/"
     )
 
     companion object {

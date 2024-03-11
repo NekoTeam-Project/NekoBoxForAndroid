@@ -5,7 +5,7 @@ rm -rf .build 2>/dev/null
 
 # Install gomobile
 if [ ! -f "$GOPATH/bin/gomobile" ]; then
-    git clone https://github.com/MatsuriDayo/gomobile.git
+    git clone https://github.com/NekoTeam-Project/gomobile.git
     pushd gomobile/cmd
     pushd gomobile
     go install -v
